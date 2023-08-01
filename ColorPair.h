@@ -1,3 +1,6 @@
+#include<string>
+#include "ColorEnums.h"
+
 class ColorPair {
 private:
     MajorColor majorColor;
