@@ -1,5 +1,6 @@
 #include <iostream>
 #include <assert.h>
+#include "ColorEnums.h
 #include"TelCoColorCoderUtils.h"
 #include"TestTelCoColorCoder.h"
 
